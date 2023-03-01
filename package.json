@@ -1,0 +1,21 @@
+{
+  "name": "lesson-1.1",
+  "version": "1.0.0",
+  "description": "backend code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmSargsyann/node-lesson-1.1.git"
+  },
+  "author": "Arman Sargsyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArmSargsyann/node-lesson-1.1/issues"
+  },
+  "homepage": "https://github.com/ArmSargsyann/node-lesson-1.1#readme"
+}
